@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+.env
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Metabase
+metabase-data/
+metabase.db/
+
+# Python
+__pycache__/
+*.pyc
