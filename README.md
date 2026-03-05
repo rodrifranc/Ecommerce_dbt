@@ -4,6 +4,10 @@ Este proyecto implementa un *Modern Data Stack* completo para "Maven Fuzzy Facto
 
 Proyecto desarrollado como parte de la **Maestría en Inteligencia Artificial (MIA 03)** - Facultad Politécnica, Universidad Nacional de Asunción.
 
+Capturas de la tarea de la clase en anexo:
+- Imagen de Dashboard de Metabase: Metabase.PNG
+- Prefect UI: Prefect UI Clase 7.PNG
+
 ## 🏗️ Arquitectura del Proyecto
 
 El flujo de datos (ELT) utiliza las siguientes herramientas:
